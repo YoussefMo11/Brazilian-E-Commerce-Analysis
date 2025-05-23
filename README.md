@@ -74,4 +74,4 @@ Shipping & Delivery Metrics
 
 Payment Method Analysis
 
-(Dashboard links can be added here)
+([Dashboard link on public tableau](https://public.tableau.com/app/profile/esraa.salama/viz/storydatasetsforfinalproject/BrazilianE-Commerce))
